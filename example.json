@@ -1,0 +1,27 @@
+{
+    "time": 2,
+    "img": "",
+    "name": "Stone Arrow",
+    "description": "",
+    "quantity": 1,
+    "recipe": [
+        {
+            "name": "...",
+            "picture": "...",
+            "description": "...",
+            "required": 2
+        },
+        {
+            "name": "...",
+            "picture": "...",
+            "description": "...",
+            "required": 2
+        },
+        {
+            "name": "...",
+            "picture": "...",
+            "description": "...",
+            "required": 2
+        }
+    ] 
+}
